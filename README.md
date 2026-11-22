@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://github.com/Tony121228">GitHub</a> ·
-  <a href="https://github.com/Tony121228/hot-meme-dict">hot-meme-dict</a> ·
   <a href="https://github.com/Tony121228/InkEdge">InkEdge</a>
 </p>
 
@@ -35,7 +34,7 @@
 
 ## 代表项目
 
-### [hot-meme-dict](https://github.com/Tony121228/hot-meme-dict)
+### [AI Detector Counter Site](https://github.com/Tony121228/ai-text-detector-counter-site)
 
 一个热梗搜集整理功能网站。这个项目关注内容的整理、查找和呈现，让零散的网络表达更容易被记录、理解和再次使用。
 
