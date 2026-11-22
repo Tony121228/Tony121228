@@ -99,7 +99,7 @@
 如果你对我的项目感兴趣，欢迎从下面的入口开始：
 
 - [查看我的 GitHub](https://github.com/Tony121228)
-- [了解 hot-meme-dict](https://github.com/Tony121228/hot-meme-dict)
+- [了解 AI Detector Counter Site](https://github.com/Tony121228/ai-text-detector-counter-site)
 - [了解 InkEdge](https://github.com/Tony121228/InkEdge)
 
 <p align="center"><sub>Keep building small things that are useful, clear, and worth opening again.</sub></p>
